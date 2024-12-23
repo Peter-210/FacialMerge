@@ -1,6 +1,8 @@
 # Facial Merge
 
-Dataset: https://www.kaggle.com/datasets/atulanandjha/lfwpeople
+Dataset: https://www.kaggle.com/datasets/atulanandjha/lfwpeople\
+
+IEEE conference paper is located in repo as "conferencePaper.pdf".
 
 ## Setup Guide
 
